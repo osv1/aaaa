@@ -1,6 +1,4 @@
-Thanks for downloading this theme!
+Thanks for Opulence Solution!
 
-Theme Name: Bell
-Theme URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Author: opulencesolutions.com
+Author URL: https://bell/index.html
